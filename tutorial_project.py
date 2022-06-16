@@ -1,6 +1,7 @@
 import PyQt5.QtWidgets as qtw
 import PyQt5.QtGui as qtg  # Needed so font style and size can be changed
 
+# Adding this line to practice Git
 
 # Define the MainWindow class
 class MainWindow(qtw.QWidget):
